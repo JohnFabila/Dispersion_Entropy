@@ -22,9 +22,10 @@ function [Out_DispEn, npdf]=DEG(x,Adj,m,L,nc,MA)
 % patterns.
 %
 % Ref:
-%
+% 1) Fabila-Carrasco, John Stewart, Chao Tan, and Javier Escudero. "Dispersion entropy for graph signals." Chaos, Solitons & Fractals 175 (2023): 113977.
+% 
 % Emails: john.fabila@ed.ac.uk / javier.escudero@ed.ac.uk
-%  21-April-2021
+%  21-April-2023
 %
 
 %%Default to some input parameters for clarity and to control errors.
